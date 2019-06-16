@@ -1,5 +1,5 @@
 # DragonsOfMugloar
 
-This is test assignment for Bigbank.
+This is a test assignment for Bigbank.
 
 Author: Kristjan Erik Ruubel
